@@ -12,6 +12,8 @@ Now we are adding the main Purpose of the file.
 
 ## How to Contribute
 
+Please fork this repo and use then issue Pull request for review.
+
 ## Deployment
 
 
