@@ -8,8 +8,11 @@ This is example to show diff parts
 
 ## Purpose
 
-
+Now we are adding the main Purpose of the file. 
 
 ## How to Contribute
 
 ## Deployment
+
+
+This is a simple web project, trying to deploy it on any web server
