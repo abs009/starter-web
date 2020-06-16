@@ -23,3 +23,7 @@ This is a simple web project, trying to deploy it on any web server
 ## Copyright
 
 2020 git Training. All rights reserved
+
+## Updates
+
+Updates from dev1
