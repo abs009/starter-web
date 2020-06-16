@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for github! learning how to do it! Adding a line for rebasing example, then more changes from my feature branch too!
+This is a simple website project for github! learning how to do it! Updating for emergency fix after stashing.
 
 ## Introduction
 
